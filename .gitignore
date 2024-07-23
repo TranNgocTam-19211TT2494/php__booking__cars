@@ -1,0 +1,20 @@
+# public file maximum number
+/public/hot
+/public/storage
+public/assets/libs/*
+public/assets/fonts/*
+
+# vendors
+vendor/*
+node_modules/*
+
+# environments
+.env
+.env.local
+.env.production
+.editorconfig
+
+# logs and testings
+storage/logs/*
+storage/framework/*
+tests/*
